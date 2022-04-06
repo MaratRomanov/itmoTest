@@ -2,6 +2,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Потребуется установка папки node_modules с помощью
+
+### `npm install`
+
 В каталоге проекта вы можете запустить:
 
 ### `npm start`
